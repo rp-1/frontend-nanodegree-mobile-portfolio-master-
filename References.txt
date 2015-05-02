@@ -1,0 +1,9 @@
+Both Udacity courses on optimization
+http://udacity.com
+
+Forums & Office Hours
+http://udacity.com
+
+Calculating browser window dimensions
+http://www.w3schools.com/jsref/prop_win_innerheight.asp
+
