@@ -6,6 +6,8 @@ web pages for quick loading.</p>
 <p>There are two main goals: First, tweak the main index.html file so that its Page Speed Insight score is higher than 90. 
 Second, optimize the pizza.html doc and its assoicated javascript files so that pizza.html operates at a smooth 60 fps.</p>
 
+<p>To view project, first load index.html. Then click the pizzeria link, which will take you to pizza.html, where you will see the optimized page live.<p>
+
 <h1>
 <a id="user-content-indexhtml-changes" class="anchor" href="#indexhtml-changes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Index.html changes</h1>
 
